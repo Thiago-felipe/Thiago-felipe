@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, sou o Thiago 👋
 
-<!--
-**Thiago-felipe/Thiago-felipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Backend Sênior especializado em PHP e Laravel, com foco em sistemas onde
+confiabilidade importa — pagamentos, integrações financeiras e plataformas de missão crítica.
 
-Here are some ideas to get you started:
+## O que eu faço
+- Lidero a arquitetura, backend e DevOps da GERA, plataforma de gestão e rastreabilidade de
+  resíduos, incluindo a migração de um front-end acoplado para uma arquitetura desacoplada em React
+- Anteriormente, atuei em sistemas de pagamento e integrações financeiras críticas
+- Uso ferramentas de IA (Claude Code) no fluxo de desenvolvimento — da arquitetura à revisão de código
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+PHP · Laravel · Livewire · MySQL/PostgreSQL · Docker · React · TypeScript
+
+## Onde me encontrar
+- 💼 [LinkedIn](https://linkedin.com/in/thiago-felipede-souza-rodrigues)
+- 📧 thiagofelipe0002@gmail.com
+- -33988248198
